@@ -1,0 +1,33 @@
+.job {
+    margin-bottom: 25px;
+  }
+  
+  .job-title {
+  font-size: 1.4em;
+  color: #0056b3; /* A distinct color for job title */
+  margin: 0 0 5px 0;
+}
+
+.company-name {
+  font-style: italic;
+  color: #007bff; /* A distinct color for company name */
+  margin-bottom: 10px;
+}
+  
+  .location-date {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .job-description {
+    padding-left: 20px;
+    list-style-type: disc;
+    margin: 0;
+  }
+
+  .job-description li {
+      font-size: 1rem;
+      line-height: 1.6;
+      margin-bottom: 0.625rem; /* 10px */
+  }
